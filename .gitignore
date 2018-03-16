@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Ng4CLIWithSystemJSBoilerPlate/src/app/shared/components/login/login.component.css
+/Ng4CLIWithSystemJSBoilerPlate/src/app/shared/components/busyspinner/busyspinner.component.min.css
+/Ng4CLIWithSystemJSBoilerPlate/src/app/shared/components/busyspinner/busyspinner.component.css
